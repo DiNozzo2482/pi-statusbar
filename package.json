@@ -1,0 +1,11 @@
+{
+  "name": "pi-statusbar",
+  "version": "1.0.0",
+  "description": "Custom statusbar (footer) extension for the pi coding agent — cwd, token counters, color-changing context bar, model info",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@earendil-works/pi-coding-agent": "^1.1.0",
+    "@earendil-works/pi-tui": "^1.1.0"
+  }
+}
